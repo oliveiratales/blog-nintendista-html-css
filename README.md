@@ -1,10 +1,10 @@
 # Blog Nintendista 🎮 
 
 **PT-BR:**
-Página inicial de um blog fictício com foco na marca Nintendo, com a temática de elementos do Super Nintendo, desenvolvido somente com HTML e CSS.
+Página inicial responsiva de um blog fictício com foco na marca Nintendo, com a temática de elementos do Super Nintendo, desenvolvido somente com HTML e CSS.
 
 **EN:**
-Homepage of a fictional blog focusing on the Nintendo brand, with the theme of Super Nintendo elements, developed only with HTML and CSS.
+Responsive homepage of a fictional blog focusing on the Nintendo brand, with the theme of Super Nintendo elements, developed only with HTML and CSS.
 
 # Layout 
 
