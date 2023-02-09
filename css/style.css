@@ -211,8 +211,8 @@ h4 {
 
 .subright a:hover {
     text-decoration: none;
-    color: #000000;
-    font-size: 1.2em;
+    color: #000000af;
+    font-size: 1em;
 }
 
 .subright p {
@@ -237,8 +237,8 @@ h4 {
 
 .popular a:hover {
     text-decoration: none;
-    color: #000000;
-    font-size: 1.2em;
+    color: #000000af;
+    font-size: 1em;
     text-align: left;
 }
 
