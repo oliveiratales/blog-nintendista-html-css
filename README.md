@@ -8,4 +8,4 @@ Homepage of a fictional blog focusing on the Nintendo brand, with the theme of S
 
 # Layout 
 
-<img width="949" alt="layout1" src="https://user-images.githubusercontent.com/118945743/209714352-bfb45f4f-a948-4cb3-a235-ce43fa5a197b.png">
+![image](https://user-images.githubusercontent.com/118945743/217892295-89468fbe-2d44-429c-a001-90777d8a4d80.png)
